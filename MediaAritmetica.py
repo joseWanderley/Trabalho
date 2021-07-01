@@ -1,5 +1,6 @@
-m = 2
-n = 10
+m = int(input('Digite um número inteiro m: '))
+n = int(input('Digite um número inteiro n: '))
+
 
 soma = m + n
 media = soma/2
